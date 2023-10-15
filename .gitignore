@@ -1,6 +1,9 @@
 node_modules
-build
 yarn-error.log
-.nyc
+
+build
+/coverage
+
 .env
+.nyc
 .DS_Store
